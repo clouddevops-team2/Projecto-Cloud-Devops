@@ -1,12 +1,13 @@
-Proyecto: Trabajo Integrador de Cloud DevOps
+Proyecto: Trabajo Integrador de Cloud DevOps.
 
-Miembros del Proyecto:
+Miembros del Proyecto.
+
 Ivan Canales
 Rol: Scrum Master
 davidivancanales@gmail.com
 www.linkedin.com/in/ivan-canales-developer
 Desarrollador FullStack
-Cloud Devops
+Cloud DevOps
 
 Carlos Trepat
 Rol: Developer
@@ -24,6 +25,10 @@ Experto en DevOps
 
 Mariano Cardano
 Rol: Developer
+marianocardano@gmail.com
+www.linkedin.com/in/mariano-cardano
+Lider de Plataforma
+Coud DevOps
 
 Gaston Baravalle
 Rol: PO
