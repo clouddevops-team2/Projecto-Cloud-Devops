@@ -3,16 +3,24 @@ Proyecto: Trabajo Integrador de Cloud DevOps
 Miembros del Proyecto:
 Ivan Canales
 Rol: Scrum Master
-Email: davidivancanales@gmail.com
+davidivancanales@gmail.com
 
 Carlos Trepat
+Rol: Developer
 
 Federico Bertazzo
 Rol: Developer
 fedebertazzo@gmail.com
-linkedIn.com/fedebertazzo
+www.linkedin.com/in/fedebertazzo
 Ingeniería
-Experto de DevOps
+Experto en DevOps
 
 Mariano Cardano
+Rol: Developer
+
 Gaston Baravalle
+Rol: PO
+gbaravalle@gmail.com
+www.linkedin.com/in/gbaravalle/
+SysAdmin
+Experto en DevOps
