@@ -4,9 +4,16 @@ Miembros del Proyecto:
 Ivan Canales
 Rol: Scrum Master
 davidivancanales@gmail.com
+www.linkedin.com/in/ivan-canales-developer
+Desarrollador FullStack
+Cloud Devops
 
 Carlos Trepat
 Rol: Developer
+carlostrepat@gmail.com
+www.linkedin.com/in/ctrepat
+Analista de Sistemas
+Experto en DevOps
 
 Federico Bertazzo
 Rol: Developer
@@ -21,6 +28,6 @@ Rol: Developer
 Gaston Baravalle
 Rol: PO
 gbaravalle@gmail.com
-www.linkedin.com/in/gbaravalle/
+www.linkedin.com/in/gbaravalle
 SysAdmin
 Experto en DevOps
