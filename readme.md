@@ -36,3 +36,8 @@ gbaravalle@gmail.com \
 www.linkedin.com/in/gbaravalle \
 SysAdmin \
 Experto en DevOps
+
+
+Se configuro cuenta de AWS para el equipo con sus respectivos usuarios. \
+https://801530726442.signin.aws.amazon.com/console \
+Acceso a la consola para cada usuario.
