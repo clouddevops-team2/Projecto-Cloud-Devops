@@ -41,3 +41,4 @@ Experto en DevOps
 Se configuro cuenta de AWS para el equipo con sus respectivos usuarios. \
 https://801530726442.signin.aws.amazon.com/console \
 Acceso a la consola para cada usuario.
+![usuarios AWS](https://user-images.githubusercontent.com/88067139/127792387-9b64cef7-13db-4e85-80bc-b171ada16fa6.jpg)
