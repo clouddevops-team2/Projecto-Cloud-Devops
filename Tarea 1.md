@@ -47,4 +47,4 @@ Se configuro cuenta de AWS para el equipo con sus respectivos usuarios.
 
 Acceso a la consola para cada usuario.
 
-![Tusuarios-aws.jpg](usuarios-aws.jpg)
+![usuarios-aws.jpg](usuarios-aws.jpg)
