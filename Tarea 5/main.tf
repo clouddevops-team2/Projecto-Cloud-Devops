@@ -1,7 +1,7 @@
 provider "aws" { #definir el proveedor cloud
     region = "sa-east-1" #Definir la región a gestionar
-    access_key = "AKIATHITD75J66VPYJMF"
-    secret_key = "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"
+    access_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx"
+    secret_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 }
 
