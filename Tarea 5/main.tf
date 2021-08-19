@@ -1,9 +1,5 @@
 provider "aws" { #definir el proveedor cloud
     region = "sa-east-1" #Definir la región a gestionar
-<<<<<<< HEAD:Tarea 5/Terraform_Lab/main.tf
-    access_key = "XXXXXXX"
-    secret_key = "XXXXXXX"
-=======
     access_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx"
     secret_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 >>>>>>> 40ab8d7ec71ae13590aa0e6e11cb07b6263965d0:Tarea 5/main.tf
